@@ -1,6 +1,6 @@
 # Dfusion-Ai for Auto Generate and upload files Modify and tks for @Zlkcyber
 
-This script automates generate files and upload it to dfussions dashboard.
+This script auto generate files and upload it to dfussions dashboard.
 
 ## Features
 
@@ -31,7 +31,7 @@ This script automates generate files and upload it to dfussions dashboard.
     ```sh
     npm install
     ```
-3. input **jwt value token** on  at `tokens.txt` file
+3. Input **jwt value token** on `tokens.txt` cmd this file
     ```bash
     nano tokens.txt
     ```
